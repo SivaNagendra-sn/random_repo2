@@ -30,8 +30,6 @@ class Calculator:
 
 
 if __name__ == '__main__':
-<<<<<<< HEAD
-=======
     operation = Calculator()
     operation.add()
->>>>>>> bugfix
+
